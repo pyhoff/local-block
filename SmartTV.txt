@@ -11,7 +11,7 @@ cert-test.sandbox.google.com
 
 collect.myhomescreen.tv
 usage.myhomescreen.tv
-
+888.com
 collect-us-fy2014.myhomescreen.tv
 collect-us-fy2015.myhomescreen.tv
 collect-us-fy2016.myhomescreen.tv
